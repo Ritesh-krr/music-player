@@ -1,7 +1,5 @@
 # music-player
 This is a static music player made using only HTML and CSS
-
-------------------------Music Player--------------------------
 in this project there are 2 pages 1st is main page with name
 music.html.
 2nd page is 2_page.html which is artists section when you click
@@ -13,4 +11,4 @@ the iframes used in music.html is in iframe folder
 
 
 made by-Ritesh Kumar 
----------------------------------------------------------------
+
